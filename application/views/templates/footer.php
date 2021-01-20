@@ -2,7 +2,7 @@
 <footer class="sticky-footer bg-white">
     <div class="container my-auto">
         <div class="copyright text-center my-auto">
-            <span>In Develop &copy; Masjid Ulil Albab UII 2020</span>
+            <span>In Develop &copy; Direktorat Pemasaran Universitas Islam Indonesia</span>
         </div>
     </div>
 </footer>
