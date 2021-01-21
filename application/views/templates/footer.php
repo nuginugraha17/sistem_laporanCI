@@ -1,8 +1,8 @@
 <!-- Footer -->
-<footer class="sticky-footer bg-white">
+<footer class="sticky-footer bg-warning">
     <div class="container my-auto">
         <div class="copyright text-center my-auto">
-            <span>In Develop &copy; Direktorat Pemasaran Universitas Islam Indonesia</span>
+            <span class="text-white">In Develop &copy; Direktorat Pemasaran Universitas Islam Indonesia</span>
         </div>
     </div>
 </footer>
